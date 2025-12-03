@@ -2,9 +2,9 @@
 🚀 Software Developer | 🎵 Music Enthusiast | 💡 Innovator
 
 ## About Me
-- 🌟 I love building innovative web apps that showcase my abilities.
+- 🌟 I love building innovative web apps that showcase my abilities as well as deriving insights from data to help drive business decisions.
 - 🎓 Experienced in full-stack development using the MERN stack (MongoDB, Express.js, React, Node.js).
-- 🌐 Currently exploring Data Analysis & Data Visualization using Python and Pandas.
+- 🌐 Currently exploring Data Analysis & Data Visualization(PowerBI, Tableu,...)
 - ✨ Fun fact: I’m passionate about music production and songwriting.
 
 ## GitHub Stats

@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Onkabetse  
-🚀 Software Developer | 🎵 Music Enthusiast | 💡 Innovator
+🚀 Aspiring Data Scientist | 🎵 Music Enthusiast | 💡 Innovator
 
 ## About Me
 - 🌟 I love building innovative web apps that showcase my abilities as well as deriving insights from data to help drive business decisions.

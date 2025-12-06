@@ -9,7 +9,7 @@
 
 ## GitHub Stats
 
-![Onkabetse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duncan413&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Duncan413)](https://github.com/Duncan413/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duncan413&layout=compact&theme=radical)
 

@@ -9,7 +9,7 @@
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Duncan413)](https://github.com/Duncan413/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Duncan413&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duncan413&layout=compact&theme=radical)
 

@@ -13,6 +13,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duncan413&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duncan413&theme=merko&hide_border=false)
+
+
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)

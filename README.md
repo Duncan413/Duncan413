@@ -9,9 +9,9 @@
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Duncan413&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Duncan413&show_icons=true&theme=merko&hide)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duncan413&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duncan413&layout=compact&theme=merko&hide)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duncan413&theme=merko&hide_border=false)
 
